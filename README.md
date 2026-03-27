@@ -1,5 +1,20 @@
 # Advanced-Encryption-Tool
 
+Task 4 : Advanced-Encryption-Tool
+
+company: Codtech IT Solutions Pvt.ltd
+
+Name: Mistry Urvi Rakeshkumar
+
+Domain: Cyber Security & Ethical Hacking
+
+Duration : 4 week
+
+Tools & Technology:-python programming language -Google Colab
+
+Intern ID : CTIS6997
+
+
 🔐 Task-4: Advanced Encryption Tool
 
 📌 What is Encryption?
